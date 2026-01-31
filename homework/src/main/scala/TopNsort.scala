@@ -1,5 +1,3 @@
-package hw_1
-
 import scala.collection.mutable.ListBuffer
 
 
